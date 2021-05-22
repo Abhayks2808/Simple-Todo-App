@@ -7,4 +7,4 @@
 3. When your task is completed just double click to delete todo
 
 ## Link
-[TodoApp](https://github.com/Abhayks2808/Simple-Todo-App)
+[TodoApp](https://abhayks2808.github.io/Simple-Todo-App/)
