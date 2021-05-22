@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #8e44ad;
+}
+
+.todo-container{min-height:100vh;padding: 2rem;}
+.todo-input{
+ display: block;
+ margin:auto;
+ border:none;
+ width: 54vw;
+ height: 7vh;
+ margin-top: 20px;
+ border-radius: 9px;
+ text-align: center;
+ font-size: 2rem;
+ outline: none;
+}
+/* .todos{
+
+padding: 1rem;
+} */
+
+.todo-list{
+   
+}
+.todo {
+    color: white;
+    display: block;
+    height: 8vh;
+    width: 80vw;
+    list-style: none;
+    margin:auto;
+    margin-top: 25px;
+    background-color: #9b59b6;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    text-align: center;
+   
+}
